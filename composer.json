@@ -1,0 +1,17 @@
+{
+    "name": "adam/morpion-php",
+    "autoload": {
+        "psr-4": {
+            "Morpion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adam",
+            "email": "adam@mx.gitlab.localdomain"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
